@@ -53,4 +53,4 @@
 
 ## create a PR for both this repo and the brilliant repo and merge your changes
 
-  - for this repo, be sure to select the `brilliantorg/elm-doc` repo as your merge base rather than `ento/elm-doc`
+- for this repo, be sure to select the `brilliantorg/elm-doc` repo as your merge base rather than `ento/elm-doc`
